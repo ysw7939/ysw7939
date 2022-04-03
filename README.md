@@ -4,7 +4,7 @@
 ## 📚 Stack
 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-233142.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=wite"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-233142.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-233142.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 
