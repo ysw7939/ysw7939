@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9fd3c7&text=SuwonYang%20%20&height=200&fontColor=142d4c)
 
 ### Hi there 👋
-### 📚 Stack
-<br/>
+## 📚 Stack
+<hr/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-233142.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 
 <!--
