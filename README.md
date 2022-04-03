@@ -15,7 +15,7 @@
 ### Operating System
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysw7939&show_icons=true&title_color=339933hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysw7939&show_icons=true&title_color=339933&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw7939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9fd3c7&height=200&section=footer)
