@@ -17,6 +17,6 @@
 --
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysw7939&show_icons=true&title_color=062743&hide=stars,prs&text_color=85a6b1&icon_color=8bd7d1&bg_color=f9f9f9&border_color=414a50)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw7939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw7939&layout=compact&title_color=062743&text_color=85a6b1&bg_color=f9f9f9&border_color=414a50)](https://github.com/anuraghazra/github-readme-stats)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9fd3c7&height=200&section=footer)
