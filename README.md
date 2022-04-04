@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9fd3c7&text=SuwonYang%20%20&height=200&fontColor=142d4c)
 
-{: .text-right }
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysw7939&count_bg=%238BD7D1&title_bg=%23414A50&icon=github.svg&icon_color=%23E7E7E7&title=+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
-### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysw7939&count_bg=%238BD7D1&title_bg=%23414A50&icon=github.svg&icon_color=%23E7E7E7&title=+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋  
 ## 📚 Stack
 ### Front-End
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-233142.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
@@ -22,3 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw7939&layout=compact&title_color=062743&text_color=85a6b1&bg_color=f9f9f9&border_color=414a50)](https://github.com/anuraghazra/github-readme-stats)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9fd3c7&height=200&section=footer)
+
