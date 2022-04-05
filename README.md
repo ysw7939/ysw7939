@@ -20,7 +20,7 @@
 ### Operating System
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
 
-## 🥇stats
+## 🥇tats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysw7939&show_icons=true&title_color=062743&hide=prs&text_color=85a6b1&icon_color=8bd7d1&bg_color=f9f9f9&border_color=414a50)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw7939&layout=compact&title_color=062743&text_color=85a6b1&bg_color=f9f9f9&border_color=414a50)](https://github.com/anuraghazra/github-readme-stats)
 
