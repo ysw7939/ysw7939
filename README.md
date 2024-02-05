@@ -17,7 +17,7 @@
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="redis" src ="https://img.shields.io/badge/redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white"/>
 
 ### Cloud
-<img alt="amazonaws" src ="https://img.shields.io/badge/amazonaw-232F3Es?&style=for-the-badge&logo=amazonaws&logoColor=white"/> <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="amazonec2" src ="https://img.shields.io/badge/amazonec2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white"/> <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### Operating System
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="rockylinux" src ="https://img.shields.io/badge/rockylinux-10B981?&style=for-the-badge&logo=rockylinux&logoColor=white"/> <img alt="CentOS" src ="https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white"/> <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
